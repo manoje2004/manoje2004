@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Manoj E
 
-<!--
-**manoje2004/manoje2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Frontend Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering graduate passionate about building responsive and modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🧾 Expense Tracker
+🔗 Live: https://manoje2004.github.io/expense-tracker/index.html
+
+### 🛒 E-Commerce Website
+🔗 Live: https://manoje2004.github.io/ecommerce-website/
+
+### 👨‍💻 Portfolio Website
+🔗 Live: https://manoje2004.github.io/portfolio-website/
+
+---
+
+## 📫 Contact
+
+📧 Email: manoj.e2567@gmail.com
+
+🌐 GitHub: https://github.com/manoje2004
